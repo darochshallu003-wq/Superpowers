@@ -41,8 +41,8 @@ morning starts clean.
 - Free to run: Supabase free tier for data and sign-in; free static hosting
   (Vercel or Netlify).
 - No server of our own.
-- Lives in `daily-checklist/` in this repository for now (this repo is the
-  Superpowers plugin; the app is self-contained so it can move to its own repo).
+- Lives in its own **private** GitHub repository (owner's decision), not in the
+  Superpowers plugin repo. This design doc moves there with it.
 
 ## Approaches considered
 
